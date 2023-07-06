@@ -6,5 +6,7 @@ Users have: username, email and password
 uses Mongodb for Storage
 it may be useful when your want to verify users Authorization so that an unAuthorized user cannot get/update or delete the contacts of a different user.
 
-###npm run dev for development or npm start (both will work).
+### npm run dev for development or npm start (both will work).
+
+
 configure your own Mongodb database and an ACCESS_TOKEN_SECRET in the .env file 
