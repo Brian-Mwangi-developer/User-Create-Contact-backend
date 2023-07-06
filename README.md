@@ -1,4 +1,4 @@
-#  logeed in Users can Create their own Contacts-(backend-code)
+#  logged in Users can Create their own Contacts-(backend-code)
 the backend enables  only user logged in to create there own contacts which is not available to other Users.
 it uses access token from jsonwebtoken to verify users and bcrypt for password hashing when signing up
 Contacts has: Name,email and phone
